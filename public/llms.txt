@@ -1,0 +1,85 @@
+# Rentyourcar — Generative Engine Optimization Map
+
+> Rentyourcar is a premium exotic and luxury car rental brand operating across four high-profile markets: Israel, Dubai, the USA, and France. The brand, associated with @gamliel_n1, offers an extraordinary fleet of the world's most coveted supercars and ultra-luxury vehicles — from Ferraris and Lamborghinis to Bugatti, McLaren, Rolls-Royce, Brabus, and Maybach. The brand exudes exclusivity, power, and prestige, catering to clients who demand the very best driving experiences in the world's most glamorous destinations.
+
+---
+
+## Pages
+
+### Home
+https://rentyourcar-9b275bcc.zappy5.app
+Unleash unmatched prestige behind the wheel of Ferrari, Lamborghini, and Rolls-Royce. Elevate your journey with premium car rental in elite destinations. Book your drive today.
+
+### Destinations
+https://rentyourcar-9b275bcc.zappy5.app/destinations
+From Israel to France and the USA, experience world-class luxury car hire in iconic cities. Secure your dream machine and turn every street into a runway. Reserve now.
+
+### Signature Experience
+https://rentyourcar-9b275bcc.zappy5.app/signature-experience
+Curated driving adventures featuring Bugatti, Maybach, and Brabus. Immerse yourself in bespoke luxury car hire designed for those who refuse to settle. Start your story.
+
+### Contact
+https://rentyourcar-9b275bcc.zappy5.app/contact
+Ready to dominate the asphalt? Connect with our concierge for tailored premium car rental and white-glove service. Your fleet of icons awaits. Inquire today.
+
+### Products
+https://rentyourcar-9b275bcc.zappy5.app/products
+Our Products - Rentyourcar
+
+### Product Detail
+https://rentyourcar-9b275bcc.zappy5.app/product/:slug
+Product Details - Rentyourcar
+
+### Category
+https://rentyourcar-9b275bcc.zappy5.app/category/:slug
+Products - Rentyourcar
+
+### Thank You | Rentyourcar
+https://rentyourcar-9b275bcc.zappy5.app/thank-you
+Rentyourcar - Thank You | Rentyourcar
+
+## Legal & Policy
+
+### Privacy Policy
+https://rentyourcar-9b275bcc.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://rentyourcar-9b275bcc.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://rentyourcar-9b275bcc.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Rentyourcar
+Rentyourcar is a premium exotic and luxury car rental brand operating across four high-profile markets: Israel, Dubai, the USA, and France. The brand, associated with @gamliel_n1, offers an extraordinary fleet of the world's most coveted supercars and ultra-luxury vehicles — from Ferraris and Lamborghinis to Bugatti, McLaren, Rolls-Royce, Brabus, and Maybach. The brand exudes exclusivity, power, and prestige, catering to clients who demand the very best driving experiences in the world's most glamorous destinations.
+
+## Target Audience
+- Luxury car enthusiasts and high-end travelers in Israel, Dubai, USA, and France
+- Luxury Car Enthusiasts
+- High-End Travelers
+- Corporate Executives
+
+## Industry
+Luxury Car Rental
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://rentyourcar-9b275bcc.zappy5.app/sitemap.xml
+- Robots: https://rentyourcar-9b275bcc.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://rentyourcar-9b275bcc.zappy5.app/llms-full.txt
+- Products (JSON): https://rentyourcar-9b275bcc.zappy5.app/products.json
+- Products (Google Merchant RSS): https://rentyourcar-9b275bcc.zappy5.app/product-feed.xml
